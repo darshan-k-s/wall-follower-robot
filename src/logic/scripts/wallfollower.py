@@ -30,7 +30,7 @@ def publish_velocity_commands(angular_vel, linear_vel):
 
 
 def get_distance(msg):
-    # print(msg)
+    print(msg)
     r = msg.ranges  # 720 messages
     # Laserbeam
     m = min(r)
