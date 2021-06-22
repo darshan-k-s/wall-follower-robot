@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!-- Material colors-->
+<robot>
+<gazebo reference="base_link">
+  <material>Gazebo/Orange</material>
+</gazebo>
+    
+<gazebo reference="f_left">
+  <material>Gazebo/Black</material>
+</gazebo>
+<gazebo reference="f_right">
+  <material>Gazebo/Black</material>
+</gazebo>
+<gazebo reference="b_left">
+  <material>Gazebo/Black</material>
+</gazebo>
+<gazebo reference="b_right">
+  <material>Gazebo/Black</material>
+</gazebo>
+
+<gazebo reference="camera_link">
+  <material>Gazebo/Black</material>
+</gazebo>
+
+</robot>
