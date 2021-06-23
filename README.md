@@ -3,8 +3,8 @@
 ### 4 Wheel left wall following differential drive robot
 
 ### Demo:
-![Gif showing demo run](https://github.com/Darshan-K-S-work/wall-follower-robot/blob/master/DemoRun.gif)
-
+<!-- ![Gif showing demo run](https://github.com/Darshan-K-S-work/wall-follower-robot/blob/master/DemoRun.gif) -->
+<img src="https://github.com/Darshan-K-S-work/wall-follower-robot/blob/master/DemoRun.gif" width="602" height="486" />
 
 'robot_struct' is the package with world, launch, mesh and urdf files.
 
