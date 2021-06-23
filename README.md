@@ -3,7 +3,8 @@
 ### 4 Wheel left wall following differential drive robot
 
 ### Demo:
-[Imgur](https://i.imgur.com/kmU79kD.gifv)
+![Alt Text](https://i.imgur.com/kmU79kD.gifv)
+<!-- [Imgur]() -->
 
 'robot_struct' is the package with world, launch, mesh and urdf files.
 
